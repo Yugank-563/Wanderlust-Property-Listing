@@ -2,7 +2,7 @@
 
 A full-stack web application built with the MERN stack that allows users to list, browse, review, and manage rental properties. Inspired by platforms like Airbnb, WanderLust includes features such as authentication, CRUD operations, image uploads, and cloud deployment.
 
-🔗 [Live Demo](https://web-project-qkmu.onrender.com/listings)
+🔗 [Live Demo](https://wanderlust-uqyy.onrender.com)
 
 ---
 
